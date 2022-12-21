@@ -25,5 +25,7 @@ public final class Constants {
         public static final int BLD = 0;  // Front Left Drive
     }
 
-    
+    public final class USB{
+        
+    }
 }
